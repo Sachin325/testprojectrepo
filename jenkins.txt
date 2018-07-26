@@ -1,6 +1,0 @@
-Goto CMD
-
-C:\jenkins>java -jar jenkins.war
-
-
-2. Manage jenkins --> Global Tool Configuration 
